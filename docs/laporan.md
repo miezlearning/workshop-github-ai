@@ -30,9 +30,8 @@ workshop-github-ai/
 
 
 ```
-<div role="alert" aria-label="tip" style="border-left:4px solid #06b6d4; background:#ecfeff; padding:12px; border-radius:6px">
-<strong>💡 TIP:</strong> Gunakan ChatGPT untuk menghasilkan struktur folder secara otomatis. Kamu juga dapat menggunakan screenshot sebagai referensi agar struktur dapat digenerate dengan lebih akurat.
-</div>
+> [!TIP]
+> Helpful advice for doing things better or more easily.
 
 
 
