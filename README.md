@@ -21,36 +21,46 @@ Challenge ini bertujuan menguji pemahaman peserta dalam menggunakan Git & GitHub
 
 ## 📂 Instruksi Challenge
 
-1. **Setup Repository** (5 poin)
-    - Buat repository baru bernama `workshop-github-2025`.
-    - Tambahkan file `README.md` berisi:
-      - Nama lengkap semua anggota.
-      - Deskripsi singkat proyek (1–2 kalimat).
+
+1. **Setup Repository & Struktur Folder** (5 poin)
+        - Buat repository baru bernama `workshop-github-2025`.
+        - Tambahkan file `README.md` berisi:
+            - Nama lengkap semua anggota.
+            - Deskripsi singkat proyek (1–2 kalimat).
+        - Buat struktur folder seperti berikut:
+            ```
+            workshop-github-2025/
+            │── README.md
+            │── index.html
+            │── style.css
+            │── script.js
+            │── docs/
+            │   └── laporan.md
+            │── assets/
+            ```
 
 2. **Kolaborasi Dasar** (10 poin)
-    - Setiap anggota wajib melakukan minimal 1 commit.
-    - Buat branch baru bernama `fitur-kelompok`.
+        - Setiap anggota wajib melakukan minimal 1 commit.
+        - Buat branch baru bernama `fitur-kelompok`.
 
 3. **Isi Proyek** (10 poin)
-    - Tambahkan file utama: `index.html` atau `hello.py`.
-    - Isi file dengan:
-      ```html
-      <h1>Hello GitHub Workshop</h1>
-      ```
-      atau
-      ```python
-      print("Hello GitHub Workshop")
-      ```
-    - Commit file tersebut lewat branch `fitur-kelompok`.
+        - Tambahkan file utama: `index.html` dengan isi:
+            ```html
+            <h1>Hello GitHub Workshop</h1>
+            ```
+        - Tambahkan file `style.css` untuk styling sederhana.
+        - Tambahkan file `script.js` untuk interaktivitas sederhana.
+        - Tambahkan dokumentasi pada `docs/laporan.md`.
+        - Commit file-file tersebut lewat branch `fitur-kelompok`.
 
 4. **Merging** (5 poin)
-    - Lakukan merge branch `fitur-kelompok` ke branch utama `main`.
+        - Lakukan merge branch `fitur-kelompok` ke branch utama `main`.
 
 5. **Publikasi GitHub Pages** (wajib)
-    - Aktifkan GitHub Pages pada repository.
-    - Settings → Pages → pilih branch `main` → folder `/root`.
-    - Pastikan file `index.html` dapat diakses publik.
-    - Serahkan URL GitHub Pages kepada panitia.
+        - Aktifkan GitHub Pages pada repository.
+        - Settings → Pages → pilih branch `main` → folder `/root`.
+        - Pastikan file `index.html` dapat diakses publik.
+        - Serahkan URL GitHub Pages kepada panitia.
 
 ---
 
