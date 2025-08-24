@@ -4,67 +4,65 @@ Repository ini berisi panduan workshop GitHub untuk peserta.
 
 ---
 
-# 📌 Challenge Kelompok: **Mission: Build & Publish**
+## 📌 Challenge Kelompok: Mission: Build & Publish
 
-## 📝 Deskripsi
+### 📝 Deskripsi
 
-Challenge ini bertujuan menguji pemahaman peserta dalam menggunakan Git & GitHub untuk kolaborasi tim. Peserta akan membuat repository bersama, melakukan branching, commit oleh semua anggota, serta mempublikasikan hasil akhir menggunakan **GitHub Pages**.
+Challenge ini bertujuan menguji pemahaman peserta dalam menggunakan Git & GitHub untuk kolaborasi tim. Peserta akan membuat repository bersama, melakukan branching, commit oleh semua anggota, serta mempublikasikan hasil akhir menggunakan GitHub Pages.
 
 **Setiap anggota kelompok diharapkan:**
-- Mampu melakukan **setup repo dan konfigurasi dasar**.
-- Melakukan **kolaborasi nyata dengan branching & commit**.
+- Mampu melakukan setup repo dan konfigurasi dasar.
+- Melakukan kolaborasi nyata dengan branching & commit.
 - Menyusun file proyek sederhana yang dapat ditampilkan sebagai website.
-- Memahami proses **merge** dan **publikasi melalui GitHub Pages**.
-- Menunjukkan **kerja sama tim**.
+- Memahami proses merge dan publikasi melalui GitHub Pages.
+- Menunjukkan kerja sama tim.
 
 ---
 
-## 📂 Instruksi Challenge
+### 📂 Instruksi Challenge
 
+1. Setup Repository & Struktur Folder (5 poin)
+    - Buat repository baru bernama `workshop-github-2025`.
+    - Tambahkan file `README.md` berisi:
+      - Nama lengkap semua anggota.
+      - Deskripsi singkat proyek (1–2 kalimat).
+    - Buat struktur folder seperti berikut:
+      ```
+      workshop-github-2025/
+      ├── README.md
+      ├── index.html
+      ├── style.css
+      ├── script.js
+      ├── docs/
+      │   └── laporan.md
+      └── assets/
+      ```
 
-1. **Setup Repository & Struktur Folder** (5 poin)
-        - Buat repository baru bernama `workshop-github-2025`.
-        - Tambahkan file `README.md` berisi:
-            - Nama lengkap semua anggota.
-            - Deskripsi singkat proyek (1–2 kalimat).
-        - Buat struktur folder seperti berikut:
-```
-workshop-github-2025/
-│── README.md
-│── index.html
-│── style.css
-│── script.js
-│── docs/
-│   └── laporan.md
-│── assets/
-```
+2. Kolaborasi Dasar (10 poin)
+    - Setiap anggota wajib melakukan minimal 1 commit.
+    - Buat branch baru bernama `fitur-kelompok`.
 
-2. **Kolaborasi Dasar** (10 poin)
-        - Setiap anggota wajib melakukan minimal 1 commit.
-        - Buat branch baru bernama `fitur-kelompok`.
+3. Isi Proyek (10 poin)
+    - Tambahkan file utama `index.html` dengan isi:
+      ```html
+      <h1>Hello GitHub Workshop</h1>
+      ```
+    - Tambahkan file `style.css` untuk styling sederhana.
+    - Tambahkan file `script.js` untuk interaktivitas sederhana.
+    - Tambahkan dokumentasi pada `docs/laporan.md`.
+    - Commit file-file tersebut lewat branch `fitur-kelompok`.
 
-3. **Isi Proyek** (10 poin)
-        - Tambahkan file utama: `index.html` dengan isi:
-            ```html
-            <h1>Hello GitHub Workshop</h1>
-            ```
-        - Tambahkan file `style.css` untuk styling sederhana.
-        - Tambahkan file `script.js` untuk interaktivitas sederhana.
-        - Tambahkan dokumentasi pada `docs/laporan.md`.
-        - Commit file-file tersebut lewat branch `fitur-kelompok`.
+4. Merging (5 poin)
+    - Lakukan merge branch `fitur-kelompok` ke branch utama `main`.
 
-4. **Merging** (5 poin)
-        - Lakukan merge branch `fitur-kelompok` ke branch utama `main`.
-
-5. **Publikasi GitHub Pages** (wajib)
-        - Aktifkan GitHub Pages pada repository.
-        - Settings → Pages → pilih branch `main` → folder `/root`.
-        - Pastikan file `index.html` dapat diakses publik.
-        - Serahkan URL GitHub Pages kepada panitia.
+5. Publikasi GitHub Pages (wajib)
+    - Aktifkan GitHub Pages pada repository.
+    - Settings → Pages → pilih branch `main` → folder `/root`.
+    - Pastikan file `index.html` dapat diakses publik.
+    - Serahkan URL GitHub Pages kepada panitia.
 
 ---
 
-## 📜 Template Laporan
+### 📜 Template Laporan
 
 Template laporan dapat ditemukan pada folder [docs](docs/laporan.md).
-
