@@ -43,14 +43,45 @@ Challenge ini bertujuan menguji pemahaman peserta dalam menggunakan Git & GitHub
     - Buat branch baru bernama `fitur-kelompok`.
 
 3. Isi Proyek (10 poin)
-    - Tambahkan file utama `index.html` dengan isi:
-      ```html
-      <h1>Hello GitHub Workshop</h1>
-      ```
-    - Tambahkan file `style.css` untuk styling sederhana.
-    - Tambahkan file `script.js` untuk interaktivitas sederhana.
-    - Tambahkan dokumentasi pada `docs/laporan.md`.
-    - Commit file-file tersebut lewat branch `fitur-kelompok`.
+    - Catatan: Bagian ini hanya contoh, bukan patokan wajib. Silakan sesuaikan konten; yang penting mengikuti struktur folder yang sudah ditentukan.
+    - Buat file utama index.html (contoh):
+        ```html
+        <!doctype html>
+        <html lang="id">
+            <head>
+                <meta charset="utf-8" />
+                <meta name="viewport" content="width=device-width, initial-scale=1" />
+                <title>Workshop GitHub 2025</title>
+                <link rel="stylesheet" href="style.css" />
+            </head>
+            <body>
+                <h1 id="title">Hello GitHub Workshop</h1>
+                <script defer src="script.js"></script>
+            </body>
+        </html>
+        ```
+    - Tambahkan style.css untuk styling sederhana (contoh):
+        ```css
+        body { font-family: system-ui, -apple-system, Segoe UI, Roboto, sans-serif; margin: 2rem; }
+        h1 { color: #2563eb; text-align: center; }
+        ```
+    - Tambahkan script.js untuk interaktivitas sederhana (contoh):
+        ```js
+        document.addEventListener('DOMContentLoaded', () => {
+            const title = document.getElementById('title');
+            title.addEventListener('click', () => {
+                title.textContent = 'Selamat datang di GitHub Pages!';
+            });
+            console.log('Script aktif');
+        });
+        ```
+    - Perbarui docs/laporan.md: ringkasan proyek, daftar anggota, pembagian tugas, cara menjalankan, dan URL GitHub Pages.
+    - Commit semua perubahan lewat branch fitur-kelompok (minimal 1 commit per anggota). Contoh:
+        ```bash
+        git add .
+        git commit -m "feat: tambah index.html, style.css, script.js, dan laporan"
+        git push origin fitur-kelompok
+        ```
 
 4. Merging (5 poin)
     - Lakukan merge branch `fitur-kelompok` ke branch utama `main`.
