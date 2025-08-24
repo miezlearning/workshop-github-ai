@@ -28,16 +28,16 @@ Challenge ini bertujuan menguji pemahaman peserta dalam menggunakan Git & GitHub
             - Nama lengkap semua anggota.
             - Deskripsi singkat proyek (1–2 kalimat).
         - Buat struktur folder seperti berikut:
-            ```
-            workshop-github-2025/
-            │── README.md
-            │── index.html
-            │── style.css
-            │── script.js
-            │── docs/
-            │   └── laporan.md
-            │── assets/
-            ```
+```
+workshop-github-2025/
+│── README.md
+│── index.html
+│── style.css
+│── script.js
+│── docs/
+│   └── laporan.md
+│── assets/
+```
 
 2. **Kolaborasi Dasar** (10 poin)
         - Setiap anggota wajib melakukan minimal 1 commit.
