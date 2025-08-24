@@ -91,7 +91,7 @@ Challenge ini bertujuan menguji pemahaman peserta dalam menggunakan Git & GitHub
         - Settings → Pages → Build and deployment: pilih "Deploy from a branch".
         - Branch: `main` → Folder: `/` (root).
     - Tunggu sampai muncul "Your site is live".
-    - Buka URL di jendela penyamaran dan pastikan index.html terbuka.
+    - Buka URL Github Pages.
     - Serahkan URL ke panitia. (menyusul link pengumpulan)
     - Pemateri/Panitia akan berkeliling cek langsung.
 
