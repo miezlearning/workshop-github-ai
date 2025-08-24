@@ -3,11 +3,11 @@
 
 ## 👥 Anggota Kelompok
 
-1. Bintang Putra (NIM: 12345)
+1. Ahmad Sudarsono (NIM: 12345)
 2. Muhammad Alif (NIM: 12346)
-3. Siti Aminah (NIM: 12347)
-4. Andi Saputra (NIM: 12348)
-5. Dewi Lestari (NIM: 12349)
+3. Tedy (NIM: 12347)
+4. Abizar (NIM: 12348)
+5. Rangga Kristiawan (NIM: 12349)
 
 
 
