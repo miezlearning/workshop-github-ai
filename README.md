@@ -88,9 +88,12 @@ Challenge ini bertujuan menguji pemahaman peserta dalam menggunakan Git & GitHub
 
 5. Publikasi GitHub Pages (wajib)
     - Aktifkan GitHub Pages pada repository.
-    - Settings → Pages → pilih branch `main` → folder `/root`.
-    - Pastikan file `index.html` dapat diakses publik.
-    - Serahkan URL GitHub Pages kepada panitia.
+        - Settings → Pages → Build and deployment: pilih "Deploy from a branch".
+        - Branch: `main` → Folder: `/` (root).
+    - Tunggu sampai muncul "Your site is live".
+    - Buka URL di jendela penyamaran dan pastikan index.html terbuka.
+    - Serahkan URL ke panitia. (menyusul link pengumpulan)
+    - Pemateri/Panitia akan berkeliling cek langsung.
 
 ---
 
