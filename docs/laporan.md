@@ -37,12 +37,11 @@ workshop-github-ai/
 
 
 ## ⚙️ Pembagian Tugas
-
-* **Bintang Putra** → Membuat repository & setup README.
-* **Muhammad Alif** → Membuat halaman utama `index.html`.
-* **Siti Aminah** → Menambahkan styling di `style.css`.
-* **Andi Saputra** → Membuat dokumentasi di `docs/laporan.md`.
-* **Dewi Lestari** → Menambahkan interaktivitas di `script.js`.
+* **Ahmad Sudarsono** → Membuat repository & setup README.  
+* **Muhammad Alif** → Membuat halaman utama `index.html`.  
+* **Tedy** → Menambahkan styling di `style.css`.  
+* **Abizar** → Membuat dokumentasi di `docs/laporan.md`.  
+* **Rangga Kristiawan** → Menambahkan interaktivitas di `script.js`.
 
 👉 Link GitHub Pages: [Link Github](https://username.github.io/workshop-github-ai)
 
