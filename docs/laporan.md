@@ -9,13 +9,12 @@
 4. Andi Saputra (NIM: 12348)
 5. Dewi Lestari (NIM: 12349)
 
----
+
 
 ## 🎯 Tujuan
 
 Mempelajari penggunaan dasar Git dan GitHub dalam kolaborasi tim serta publikasi proyek menggunakan GitHub Pages.
 
----
 
 ## 📁 Struktur Repository
 
@@ -34,7 +33,6 @@ workshop-github-ai/
 
 Gunakan ChatGPT untuk menghasilkan struktur folder secara otomatis. Kamu juga dapat menggunakan screenshot sebagai referensi agar struktur dapat digenerate dengan lebih akurat.
 
----
 
 ## ⚙️ Pembagian Tugas
 
@@ -46,7 +44,6 @@ Gunakan ChatGPT untuk menghasilkan struktur folder secara otomatis. Kamu juga da
 
 👉 Link GitHub Pages: [Link Github](https://username.github.io/workshop-github-ai)
 
----
 
 ## 🌟 Kreativitas Tambahan
 
