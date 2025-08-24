@@ -29,8 +29,10 @@ workshop-github-ai/
 │   └── laporan.md
 │── assets/
 
-(gunakan
+
 ```
+
+Gunakan ChatGPT untuk menghasilkan struktur folder secara otomatis. Kamu juga dapat menggunakan screenshot sebagai referensi agar struktur dapat digenerate dengan lebih akurat.
 
 ---
 
