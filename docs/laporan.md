@@ -46,10 +46,4 @@ workshop-github-ai/
 👉 Link GitHub Pages: [Link Github](https://username.github.io/workshop-github-ai)
 
 
-## 🌟 Kreativitas Tambahan
-
-* Menambahkan warna & desain sederhana pada halaman.
-* Commit message unik agar mudah dipahami.
-* README dilengkapi dengan emoji & screenshot hasil akhir.
-
 ---
