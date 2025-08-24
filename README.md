@@ -15,7 +15,7 @@ Challenge ini bertujuan menguji pemahaman peserta dalam menggunakan Git & GitHub
 - Melakukan **kolaborasi nyata dengan branching & commit**.
 - Menyusun file proyek sederhana yang dapat ditampilkan sebagai website.
 - Memahami proses **merge** dan **publikasi melalui GitHub Pages**.
-- Menunjukkan **kreativitas & kerja sama tim**.
+- Menunjukkan **kerja sama tim**.
 
 ---
 
@@ -46,12 +46,7 @@ Challenge ini bertujuan menguji pemahaman peserta dalam menggunakan Git & GitHub
 4. **Merging** (5 poin)
     - Lakukan merge branch `fitur-kelompok` ke branch utama `main`.
 
-5. **Kreativitas Bonus** (+5 poin)
-    - Tambahkan improvisasi, contoh:
-      - Commit message kreatif.
-      - README dengan emoji, gambar, atau link tambahan.
-
-6. **Publikasi GitHub Pages** (wajib)
+5. **Publikasi GitHub Pages** (wajib)
     - Aktifkan GitHub Pages pada repository.
     - Settings → Pages → pilih branch `main` → folder `/root`.
     - Pastikan file `index.html` dapat diakses publik.
@@ -62,3 +57,4 @@ Challenge ini bertujuan menguji pemahaman peserta dalam menggunakan Git & GitHub
 ## 📜 Template Laporan
 
 Template laporan dapat ditemukan pada folder [docs](docs/laporan.md).
+
