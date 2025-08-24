@@ -31,7 +31,10 @@ workshop-github-ai/
 
 ```
 
-Gunakan ChatGPT untuk menghasilkan struktur folder secara otomatis. Kamu juga dapat menggunakan screenshot sebagai referensi agar struktur dapat digenerate dengan lebih akurat.
+> [!TIP]: 
+> Gunakan ChatGPT untuk menghasilkan struktur folder secara otomatis. Kamu juga dapat menggunakan screenshot sebagai referensi agar struktur dapat digenerate dengan lebih akurat.
+
+
 
 
 ## ⚙️ Pembagian Tugas
