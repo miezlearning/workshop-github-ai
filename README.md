@@ -1,15 +1,37 @@
-# Halo, Selamat Datang! 🙋‍♂️
+# 🛍️ Landing Page Penjualan Sederhana
 
-Repository ini berisi panduan dan materi untuk Workshop GitHub.
+> ✨ **Proyek landing page modern & responsif** untuk menampilkan produk dengan cara yang elegan, cepat, dan mudah digunakan.
 
-## 🔗 Navigasi
+---
 
-| Bagian | Deskripsi | Tautan |
-|---|---|---|
-| Soal Kelompok | Challenge: Mission: Build & Publish | [Buka Soal](./soal/kelompok.md) |
-| Soal Posttest | Latihan mandiri individu | [Buka Soal](./soal/rumahan.md) |
-| Template Laporan | Format laporan kelompok | [Buka Template](./docs/laporan.md) |
-| License | Lisensi proyek | [MIT License](./LICENSE) |
+## 👥 Anggota Kelompok
+| Nama Lengkap          | Peran       |
+|-----------------------|-------------|
+| 👑 Muhammad Alif      | Ketua       |
+| 💻 Ahmad, S.Kom       | Developer   |
+| 🎨 Rheza Gerard       | Designer    |
+| 🧠 Gerry Hasrom, S.Kom| Developer   |
 
+---
 
+## 📝 Deskripsi Proyek
+Proyek ini merupakan **landing page sederhana untuk penjualan** yang dirancang agar:
 
+- 📱 **Responsif** di berbagai perangkat (desktop & mobile).
+- 🖼️ Menampilkan produk secara **jelas & menarik**.
+- 🛒 Memiliki **Call to Action** (CTA) untuk meningkatkan konversi pembelian.
+
+---
+
+## 🎯 Tujuan
+- Memberikan pengalaman pengguna yang **cepat & intuitif**.
+- Menjadi basis awal untuk pengembangan website e-commerce skala penuh.
+
+---
+
+## 🖼️ Preview (Mockup / Coming Soon)
+![Preview](https://via.placeholder.com/800x400?text=Landing+Page+Preview)
+
+---
+
+✨ Dibuat dengan semangat kolaborasi & kreativitas 🚀
