@@ -80,7 +80,7 @@ Challenge ini bertujuan menguji pemahaman peserta dalam menggunakan Git & GitHub
 4. Merging (5 poin)
     - Lakukan merge branch `fitur-kelompok` ke branch utama `main`.
 
-5. Publikasi GitHub Pages (wajib)
+5. Publikasi GitHub Pages (gacor kalau bisa)
     - Aktifkan GitHub Pages pada repository.
         - Settings → Pages → Build and deployment: pilih "Deploy from a branch".
         - Branch: `main` → Folder: `/` (root).
