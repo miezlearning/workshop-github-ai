@@ -17,13 +17,13 @@ Setiap anggota akan belajar membuat **fork**, bekerja di branch sendiri, lalu me
 
 ### 📂 Instruksi Challenge
 
-1. **Setup Repository Utama (5 poin)**
+1. **Setup Repository Utama**
 
    * **Ketua** sudah menyiapkan repo publik bernama `workshop-team-2025`.
    * Repo utama berisi struktur folder awal dan file `README.md` kosong.
    * Ketua membagikan URL repo utama ke semua anggota kelompok.
 
-2. **Fork & Clone (10 poin)**
+2. **Fork & Clone**
 
    * **Setiap anggota** melakukan **Fork** repo utama ke akun GitHub masing-masing.
    * Clone hasil fork ke lokal:
@@ -39,7 +39,7 @@ Setiap anggota akan belajar membuat **fork**, bekerja di branch sendiri, lalu me
      git remote -v
      ```
 
-3. **Buat Branch & Kerjakan Proyek (10 poin)**
+3. **Buat Branch & Kerjakan Proyek**
 
    * Buat branch baru dengan format `fitur/nama`.
 
@@ -66,7 +66,7 @@ Setiap anggota akan belajar membuat **fork**, bekerja di branch sendiri, lalu me
      git push origin fitur/nama
      ```
 
-4. **Ajukan Pull Request (10 poin)**
+4. **Ajukan Pull Request**
 
    * Buka repo fork di GitHub → klik **“Compare & pull request”**.
    * Pastikan:
@@ -76,12 +76,12 @@ Setiap anggota akan belajar membuat **fork**, bekerja di branch sendiri, lalu me
      `feat: tambah halaman profil Nama`.
    * Submit PR → tunggu review & merge.
 
-5. **Merging (5 poin)**
+5. **Merging**
 
    * **Ketua** mereview setiap PR anggota.
    * Jika sesuai, PR akan di-*merge* ke branch utama `main`.
 
-6. **Sinkronisasi (5 poin)**
+6. **Sinkronisasi**
 
    * Setelah PR diterima, **semua anggota** melakukan update repo lokal agar sinkron dengan repo utama:
 
