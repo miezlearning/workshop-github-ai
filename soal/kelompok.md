@@ -38,13 +38,6 @@ Setiap anggota akan belajar membuat **fork**, bekerja di branch sendiri, lalu me
      git remote add upstream <URL_repo_utama>
      git remote -v
      ```
-
-3. **Buat Branch & Kerjakan Proyek**
-
-   * Buat branch baru dengan format `fitur/nama`.
-
-     ```bash
-     git switch -c fitur/nama
      ```
    * Tambahkan atau modifikasi file sesuai struktur proyek:
 
@@ -59,11 +52,10 @@ Setiap anggota akan belajar membuat **fork**, bekerja di branch sendiri, lalu me
      └── assets/
      ```
    * Contoh commit:
-
      ```bash
      git add .
      git commit -m "feat: tambah profil Nama di script.js"
-     git push origin fitur/nama
+     git push origin main/master
      ```
 
 4. **Ajukan Pull Request**
@@ -75,11 +67,6 @@ Setiap anggota akan belajar membuat **fork**, bekerja di branch sendiri, lalu me
    * Beri judul PR jelas, contoh:
      `feat: tambah halaman profil Nama`.
    * Submit PR → tunggu review & merge.
-
-5. **Merging**
-
-   * **Ketua** mereview setiap PR anggota.
-   * Jika sesuai, PR akan di-*merge* ke branch utama `main`.
 
 6. **Sinkronisasi**
 
